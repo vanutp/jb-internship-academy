@@ -20,7 +20,7 @@ An extension that adds an action "Hello World Action" to Search Everywhere menu
 
 ## Testing
 
-1. Run `clean` task, then `runIdeForUiTests`
-2. Open/create any project
+1. Run `clean` task, then `runIdeForUiTests`. It should continue running in the background.
+2. Open/create any project in the opened IDE
 3. Run `test` task
 
